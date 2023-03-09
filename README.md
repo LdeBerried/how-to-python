@@ -9,14 +9,16 @@ For this purpose, we are going to work on a capstone project.
 - [Coding concepts](#coding-concepts)
   - [Python Basics](#python-basics)
     - [🔗 Useful Links](#-useful-links)
+  - [Python Documentation](#python-documentation)
+    - [🔗 Useful Links](#-useful-links-1)
   - [Virtual Environments](#virtual-environments)
     - [🛠 Tools](#-tools)
-    - [🔗 Useful Links](#-useful-links-1)
+    - [🔗 Useful Links](#-useful-links-2)
   - [Testing](#testing)
     - [🛠 Tools](#-tools-1)
-    - [🔗 Useful Links](#-useful-links-2)
-  - [Data Structures](#data-structures)
     - [🔗 Useful Links](#-useful-links-3)
+  - [Data Structures](#data-structures)
+    - [🔗 Useful Links](#-useful-links-4)
 
 # Capstone project
 
@@ -43,6 +45,19 @@ Pythonic way of coding.
 📘 [Python Pocket Reference - 5th edition](https://www.oreilly.com/library/view/python-pocket-reference/9780596802806/) ➡ Python Handbook. Very useful.
 
 ---
+
+## Python Documentation
+
+Learn to document your code in a way that is easy to understand and maintain.
+Write meaningful docstrings and comments.
+
+### 🔗 Useful Links
+
+📘 [Pydoc official documentation](https://docs.python.org/es/3/library/pydoc.html) ➡ Python official documentation on docstrings
+
+💬 [5 tips for automatic Python documentation](https://towardsdatascience.com/five-tips-for-automatic-python-documentation-7513825b760e) ➡ Nice post on MkDocs and Python docstrings
+
+❓ [**STACKOVERFLOW** - How do I create documentation with Pydoc](https://stackoverflow.com/questions/13040646/how-do-i-create-documentation-with-pydoc) ➡ Stackoverflow thread about Pydoc generation.
 
 
 ## Virtual Environments
