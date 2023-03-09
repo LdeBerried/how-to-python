@@ -79,6 +79,8 @@ Set up some basic CI/CD tools for testing automation.
 
 💬 [How to write testable code](https://www.toptal.com/qa/how-to-write-testable-code-and-why-it-matters) ➡ (Very good) Toptal blogpost about testing fundamentals. Examples are in C## but they are SO readable.
 
+💬 [Why TDD](https://marsner.com/blog/why-test-driven-development-tdd/) ➡ Marsner blogpost about TDD.
+
 🧭 [Google's Tech Dev Guide for Testing](https://techdevguide.withgoogle.com/resources/topics/testing/?no-filter=true#!) ➡ Complete guide of resources for testing provided by Google. A lot of content.
 
 🧩 [Introduction to unit testing in Python](https://machinelearningmastery.com/a-gentle-introduction-to-unit-testing-in-python/) ➡ Complete guide for setting up unit testing in PyUnit and PyTest in MachineLearningMastery blog.
