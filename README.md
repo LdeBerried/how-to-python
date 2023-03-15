@@ -32,13 +32,18 @@ Pythonic way of coding.
 
 ### 🔗 Useful Links
 
+
+👩🏻‍🎓 [**COURSE** - Python Crash Course](https://ehmatthes.github.io/pcc_2e/) ➡ Python Crash Course
+
+👩🏻‍🎓 [**COURSE** - Python for beginners](https://learn.microsoft.com/en-us/training/paths/beginner-python/) ➡ Python learning path by Microsoft Learning
+
+👩🏻‍🎓 [**COURSE** - Build real world applications with Python](https://learn.microsoft.com/en-us/training/paths/python-language/) ➡ Python capstone projeccts and utilities by Microsoft Learning
+
 🧩 [Python Docs](https://docs.python.org/3/) ➡ Python official documentation
 
 📘 [Python for Everybody](https://www.py4e.com/) ➡ Free book for Python basics
 
 📘 [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) ➡ Free book for Python basics
-
-👩🏻‍🎓 [**COURSE** - Python Crash Course](https://ehmatthes.github.io/pcc_2e/) ➡ Python Crash Course
 
 📘 [Pythonic Programming](https://www.oreilly.com/library/view/pythonic-programming/9781449359034/) ➡ Book for Pythonic programming by The Pragmatic Programmers
 
@@ -92,15 +97,16 @@ Set up some basic CI/CD tools for testing automation.
 
 ### 🔗 Useful Links
 
-💬 [How to write testable code](https://www.toptal.com/qa/how-to-write-testable-code-and-why-it-matters) ➡ (Very good) Toptal blogpost about testing fundamentals. Examples are in C## but they are SO readable.
 
-💬 [Why TDD](https://marsner.com/blog/why-test-driven-development-tdd/) ➡ Marsner blogpost about TDD.
-
-🧭 [Google's Tech Dev Guide for Testing](https://techdevguide.withgoogle.com/resources/topics/testing/?no-filter=true#!) ➡ Complete guide of resources for testing provided by Google. A lot of content.
+🧩 [Google's Tech Dev Guide for Testing](https://techdevguide.withgoogle.com/resources/topics/testing/?no-filter=true#!) ➡ Complete guide of resources for testing provided by Google. A lot of content.
 
 🧩 [Introduction to unit testing in Python](https://machinelearningmastery.com/a-gentle-introduction-to-unit-testing-in-python/) ➡ Complete guide for setting up unit testing in PyUnit and PyTest in MachineLearningMastery blog.
 
 🧩 [Getting Started With Testing in Python in RealPython](https://realpython.com/python-testing/) ➡ Complete guide on testing by RealPython.
+
+💬 [How to write testable code](https://www.toptal.com/qa/how-to-write-testable-code-and-why-it-matters) ➡ (Very good) Toptal blogpost about testing fundamentals. Examples are in C## but they are SO readable.
+
+💬 [Why TDD](https://marsner.com/blog/why-test-driven-development-tdd/) ➡ Marsner blogpost about TDD.
 
 ---
 
